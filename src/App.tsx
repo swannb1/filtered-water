@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="filtration-system">
       <Background />
-      <div>
+      <div className="filter">
         <Filter />
       </div>
     </div>
