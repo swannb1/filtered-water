@@ -75,3 +75,7 @@
   font-size: 2rem;
   font-weight: 600;
 }
+
+.filter-button:hover {
+  cursor: pointer;
+}
